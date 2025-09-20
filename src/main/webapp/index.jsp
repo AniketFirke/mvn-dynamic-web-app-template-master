@@ -64,7 +64,7 @@
 
   <div class="project-card">
     <h2>Project Deployed By</h2>
-    <p><b>Aniket Firke</b></p>
+    <p><b>Mr.Aniket Firke</b></p>
   </div>
 
   <div class="project-card">
